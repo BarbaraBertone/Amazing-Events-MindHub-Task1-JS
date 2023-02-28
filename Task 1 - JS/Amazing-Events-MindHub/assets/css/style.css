@@ -1,0 +1,144 @@
+.logo{
+   max-width: 300px;
+}
+
+.item-car{
+    color: #dc0464;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+
+.text-car{
+    font-size: 50px;
+}
+
+svg.bi.bi-caret-left-fill,
+svg.bi.bi-caret-right-fill{
+    color: #dc0464;
+} 
+
+.checks{
+    display: flex;
+    justify-content: space-around;
+}
+
+.form-check-input:checked{
+    background-color: #dc0464;
+}
+
+button.btn.amazeButton{
+    color: white;
+    background-color: #dc0464;
+}
+
+.cards-div{
+    display: flex;
+    justify-content: space-around;
+}
+.card-img-top{
+    height: 150px;
+}
+
+.btn.btn-primary{
+    background-color: #dc0464;
+    border-color: #dc0464;
+}
+
+.card-footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-nav, .carousel-inner{
+    padding: 20px;
+}
+
+.row{
+    padding: 50px;
+}
+
+.nav-item{
+    background-color: #dc0464;
+    display: flex;
+    justify-content: space-around;
+    width: 200px;
+}
+
+.nav-item>a{
+    color: white;
+}
+
+.footer-basic{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    color: #dc0464;
+}
+
+.fa-brands{
+    color: #dc0464;
+}
+
+.table{
+    align-items: center;
+    flex-direction: column;
+    border-color: black;
+}
+
+.table, td, tr, th{
+    border: 1px solid black;
+    width: 700px;
+}
+
+.title{
+    background-color: #dc0464;
+}
+
+.table-div{
+    display: flex;
+    justify-content: center;
+}
+
+th{
+    color: white;
+}
+
+.contact-form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+label{
+    font-size: 35px;
+    color: #dc0464;
+}
+
+input.form-control{
+    border-color: #dc0464;
+    border: 2px solid #dc0464;
+}
+
+.details-div{
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+
+.span-1{
+    padding: 20px;
+}
+
+.card-detail{
+    height: 400px;
+}
+
+.body-detail{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+}
